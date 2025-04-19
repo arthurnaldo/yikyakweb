@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yikyakweb/static/css/main.e6c13ad2.css",
+    "main.js": "/yikyakweb/static/js/main.4145dda6.js",
+    "static/js/453.60a768b5.chunk.js": "/yikyakweb/static/js/453.60a768b5.chunk.js",
+    "index.html": "/yikyakweb/index.html",
+    "main.e6c13ad2.css.map": "/yikyakweb/static/css/main.e6c13ad2.css.map",
+    "main.4145dda6.js.map": "/yikyakweb/static/js/main.4145dda6.js.map",
+    "453.60a768b5.chunk.js.map": "/yikyakweb/static/js/453.60a768b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4145dda6.js"
+  ]
+}
